@@ -64,7 +64,7 @@
 
 ## Setup
 
-### Configure your GitHub repository to run the workflows
+### Configure your GitHub repository to run the workflow
 
 <details>
     <summary>Click to expand</summary>
